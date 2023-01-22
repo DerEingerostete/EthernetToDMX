@@ -1,4 +1,4 @@
-<h1 style="align-content: center; text-align:center">
+<h1 align="center">
   <br>
   <a href="https://github.com/DerEingerostete/EthernetToDMX"><img src="https://raw.githubusercontent.com/DerEingerostete/EthernetToDMX/assets/Logo.png" alt="EthernetToDMX" width="500"></a>
   <br>
@@ -8,7 +8,7 @@
 
 ___
 
-<p style="text-align: center;">
+<p align="center">
   <a href="#features">Features</a> •
   <a href="#hardware">Hardware</a> •
   <a href="#download">Hardware Limitations</a> •
