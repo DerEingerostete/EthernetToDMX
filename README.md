@@ -40,7 +40,8 @@ Unfortunately it is not possible to run the project with an Arduino UNO or ESP32
 If someone has found a solution to this problem I would be very happy about a message.
 
 ## Credits
-Many thanks to the three libraries, without whom I could never have made the project work. - [DmxSimple](https://github.com/PaulStoffregen/DmxSimple)
+Many thanks to the three libraries, without whom I could never have made the project work. 
+ - [DmxSimple](https://github.com/PaulStoffregen/DmxSimple)
  - [ArtNet](https://github.com/hideakitai/ArtNet)
  - [EasySevenSeg](https://github.com/NeMaksym/Arduino-EasySevenSeg)
 
