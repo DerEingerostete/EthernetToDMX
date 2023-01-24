@@ -2,7 +2,7 @@
   <br>
   <a href="https://github.com/DerEingerostete/EthernetToDMX"><img src="https://raw.githubusercontent.com/DerEingerostete/EthernetToDMX/assets/Logo.png" alt="EthernetToDMX" width="500"></a>
   <br>
-  Send DMX data over Ethernet
+   Art-Net Receiver for Arduino Megas 
   <br>
 </h1>
 
